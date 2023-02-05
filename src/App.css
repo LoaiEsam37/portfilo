@@ -1,0 +1,74 @@
+nav a.nav-link {
+  font-weight: 500;
+  letter-spacing: 0.0175rem;
+  cursor: pointer;
+}
+
+nav ul li {
+  text-transform: uppercase;
+}
+
+.navbar-brand {
+  font-weight: 900;
+}
+
+.gradient {
+  background: rgb(43,108,255);
+  background: linear-gradient(90deg, rgba(43,108,255,1) 0%, rgba(104,225,253,1) 100%); 
+}
+
+.page-header {
+  margin-top: 3.6rem;
+  font-size: 1.25rem;
+  color: #fff;
+}
+
+#about {
+  background-color: #000b76;
+  color: #fff;
+  margin-top: -3px;
+  padding-bottom: 150px;
+  padding-top: 100px;
+}
+
+a {
+  text-decoration: none;
+  color:rgba(104,225,253,1);
+}
+
+#about p {
+  text-indent:1em;  
+  text-align:justify;
+}
+
+#about  p:first-letter {
+  font-weight: 900;
+  font-size: 20px;
+}
+
+#service {
+  background-color: rgba(104,225,253,1);
+  margin-top: -3px;
+  font-size: 1.3rem;
+}
+
+.card-title {
+  font-size: 1.5rem;
+  font-weight: 900;
+}
+
+#skills {
+  background-color: #000b76;
+  margin-top: -3px;
+  color: #fff;
+  padding-bottom: 100px;
+  padding-top: 100px;
+}
+
+#skills > div > h1 {
+  text-align: center;
+}
+
+#read {
+  max-width: 150px;
+}
