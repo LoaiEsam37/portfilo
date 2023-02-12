@@ -42,14 +42,6 @@ const Skills = () => {
         <div className="row justify-content-center align-items-center">
           <div className="col-7">
             <div class="progressBar mt-3">
-              <h2>Deno.js</h2>
-              <ProgressBar now={deno} variant="danger" animated />
-            </div>
-          </div>
-        </div>
-        <div className="row justify-content-center align-items-center">
-          <div className="col-7">
-            <div class="progressBar mt-3">
               <h2>Express.js</h2>
               <ProgressBar now={express} variant="danger" animated />
             </div>
